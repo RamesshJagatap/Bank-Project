@@ -3,6 +3,3 @@ This is the Bank Statements
 {
 printf (" Estatements are following")
  }
- 
- 
- All new
